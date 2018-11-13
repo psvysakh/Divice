@@ -1,0 +1,14 @@
+@media(max-width:480px) {
+
+    .overlay-1 h1,
+    .overlay-2 h1,
+    .overlay-3 h1 {
+        font-size: 50px;
+    }
+.carousel-inner .carousel-item .overlay-1,
+.carousel-inner .carousel-item .overlay-2,
+.carousel-inner .carousel-item .overlay-3 {
+    background-color: rgba(33, 34, 38, 0.6);
+    
+}
+}
